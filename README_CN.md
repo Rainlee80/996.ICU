@@ -16,7 +16,7 @@
 
 - 《共青团中央》：[工作996，生病ICU？关注：年轻人该如何奋斗](https://mp.weixin.qq.com/s/e5qaW6ED_WUunNYG-q7frg)
 - 《中国青年报》：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
-
+- 《中国日报》
 点击此处查看相关报道的[完整列表](/externals/news.md)
 
 
@@ -57,7 +57,7 @@
  - [955.WLB](https://github.com/formulahendry/955.WLB) 996.ICU 的反向 repo，旨在让更多的人逃离 996，加入 955 的行列。
 
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
- 
+
  - [996.law](https://github.com/CPdogson/996.law) 面向所有劳动者的一份劳动仲裁与劳动诉讼的攻略手册，看完它之后你甚至不用找律师。并且倡导劳动者在工作中随时取证以备后患。
 
  - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, 另外一个匿名投票列表
@@ -69,9 +69,9 @@
  - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
 
  - [996.action](https://github.com/CPdogson/996action) 向地方人力资源和社会保障局进行信息公开，要求公开他们的工作报告和计划。这是一项温柔的法律行动，面向所有劳动者，它完全合法，成本低，并且可以诉讼，并且不会使你丢掉工作。除此之外，该项目未来将进行更多行动。
- 
+
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
- 
+
 Issues 去哪了？
 ---
 
